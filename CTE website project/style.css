@@ -1,0 +1,31 @@
+.jumbotron {
+    background-image: url("https://www.georgetown.edu/wp-content/uploads/2023/04/GettyImages-521113609-2000x1125.jpg");
+
+    background-size: cover;
+
+}
+.jumbotron h1{
+    color: white;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 98.5%;
+}
+
+.col-sm-5 p{
+    font-size: large;
+}
+
+.col-sm-7 img{
+    float: right;
+}
+
+.col-sm-7 p{
+    float: right;
+    font-size: large;
+}
+
+.whale-fact{
+    float: right;
+}
